@@ -1,0 +1,6 @@
+{
+  "name": "ZeroNoise",
+  "description": "Real-time audio and video noise cancellation application with zero-noise voice isolation and acoustic DSP filtering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
